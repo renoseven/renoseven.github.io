@@ -7,11 +7,11 @@ titles:
   en-US   : *EN
   en-CA   : *EN
   en-AU   : *EN
-  zh-Hans : &ZH_HANS  关于
+  zh-Hans : &ZH_HANS  关于我
   zh      : *ZH_HANS
   zh-CN   : *ZH_HANS
   zh-SG   : *ZH_HANS
-  zh-Hant : &ZH_HANT  關於
+  zh-Hant : &ZH_HANT  關於我
   zh-TW   : *ZH_HANT
   zh-HK   : *ZH_HANT
   ko      : &KO       소개
@@ -27,4 +27,4 @@ key: page-about
 show_author_profile: true
 ---
 
-* IT狗,准专业的摄影师,37度耳机控,全名敏感词,重度拖延症患者
+// 写Shell脚本的CXX码农,准专业的摄影师,37度耳机控,全名敏感词,重度拖延症患者
