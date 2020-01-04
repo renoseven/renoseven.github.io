@@ -24,7 +24,7 @@ titles:
   fr-LU   : *FR
   # @end locale config
 key: page-about
+show_author_profile: true
 ---
 
-# RenoSeven
 * IT狗,准专业的摄影师,37度耳机控,全名敏感词,重度拖延症患者
