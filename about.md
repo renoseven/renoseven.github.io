@@ -27,4 +27,4 @@ key: page-about
 show_author_profile: true
 ---
 
-// 写Shell脚本的CXX码农,准专业的摄影师,37度耳机控,全名敏感词,重度拖延症患者
+// 写Shell脚本的CXX码农, 准专业的摄影师, 37度耳机控, 全名敏感词, 重度拖延症患者
