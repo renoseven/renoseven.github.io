@@ -1,8 +1,1 @@
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="24px" height="24px" viewBox="0 0 24 24">
-<style type="text/css">
-	.st0{fill:#515151;}
-</style>
-<path class="st0" d="M1.7,22.3c5.7-5.7,11.3-5.7,17,0c3.3-3.3,3.5-5.3,0.8-6c2.7,0.7,3.5-1.1,2.3-5.6s-3.3-5.2-6.3-2.1
-	c3-3,2.3-5.2-2.1-6.3S7,1.8,7.7,4.6C7,1.8,5,2.1,1.7,5.3C7.3,11,7.3,16.7,1.7,22.3"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"><defs><style>.cls-1{fill:#cfd8dd;}.cls-2{fill:#92a6ad;}.cls-3{fill:#37474f;}.cls-4{fill:#fff;}</style></defs><title>Command Line</title><g id="Layer_2" data-name="Layer 2"><g id="Layer_1-2" data-name="Layer 1"><path class="cls-1" d="M4,0H60a4,4,0,0,1,4,4v8a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V4A4,4,0,0,1,4,0Z"/><circle class="cls-2" cx="6" cy="6" r="2"/><circle class="cls-2" cx="12" cy="6" r="2"/><circle class="cls-2" cx="18" cy="6" r="2"/><path class="cls-3" d="M0,12H64a0,0,0,0,1,0,0V60a4,4,0,0,1-4,4H4a4,4,0,0,1-4-4V12A0,0,0,0,1,0,12Z"/><polygon class="cls-4" points="6 20 8 18 14 24 8 30 6 28 10 24 6 20"/><rect class="cls-4" x="16" y="28" width="8" height="2"/></g></g></svg>
