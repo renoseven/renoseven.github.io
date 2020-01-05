@@ -18,7 +18,7 @@
 ##############################
 text_skin: dark # "default" (default), "dark", "forest", "ocean", "chocolate", "orange"
 highlight_theme: tomorrow-night # "default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
-url     : https://www.renoseven.net
+url     : https://renoseven.net
 baseurl : /
 title   : My Dev logs
 description: > # this means to ignore newlines until "Language & timezone"
@@ -36,7 +36,7 @@ timezone: CN
 author:
   type      : persion
   name      : RenoSeven
-  url       : https://www.renoseven.net
+  url       : https://renoseven.net
   avatar    : https://avatars3.githubusercontent.com/u/11251691?s=460&v=4
   bio       : Don't forget to feed dog 
   email     : me@renoseven.net
